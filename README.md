@@ -1,5 +1,6 @@
 # Jenkins-Hang-Handling-Script
 This shell script will handle Jenkins CI/CD application running on the linux server whenever Jenkins is hang or not responding then this script will stop/start the services and take the support logs and save it on the designated folder path. Also send the email notification on the required email ID or distribution list.
 
-# This script is not public, due to time I spend on learning the gaining the knowledge and enhanced the skillset.
-# It is private script
+This script is not public, it is private script. 
+
+Intentionally I didn't released this script as public, talk to me or send me the message if you need the script.
